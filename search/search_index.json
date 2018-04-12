@@ -2,18 +2,18 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u8fd9\u662f\u65b0\u7684\u5185\u5bb9",
-            "title": "Welcome to MkDocs"
+            "text": "Welcome to Site\n\n\nFor  visit \nwww.baidu.com\n.\n\n\n\u7b80\u4ecb\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u8fd9\u662f\u65b0\u7684\u5185\u5bb9\n\n\n\u4e0b\u9762HTML\u8868\u683c\n\n\n\n    \n\u8868\u683c\u793a\u4f8b\u6807\u9898\n\n    \n\n        \n\u8868\u593401\n\n        \n\u8868\u593402\n\n    \n\n    \n\n        \n\u5355\u5143\u683c01\n\n        \n\u5355\u5143\u683c02\n\n    \n\n    \n\n        \n\u5355\u5143\u683c03\n\n        \n\u5355\u5143\u683c04\n\n    \n\n\n\n\n\n\u8fd9\u91cc\u662f\u52a0\u7c97",
+            "title": "Welcome to Site"
         },
         {
-            "location": "/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/#welcome-to-site",
+            "text": "For  visit  www.baidu.com .",
+            "title": "Welcome to Site"
         },
         {
-            "location": "/#commands",
+            "location": "/#_1",
             "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
+            "title": "\u7b80\u4ecb"
         },
         {
             "location": "/#project-layout",
@@ -21,9 +21,14 @@
             "title": "Project layout"
         },
         {
-            "location": "/#_1",
+            "location": "/#_2",
             "text": "",
             "title": "\u8fd9\u662f\u65b0\u7684\u5185\u5bb9"
+        },
+        {
+            "location": "/#html",
+            "text": "\u8868\u683c\u793a\u4f8b\u6807\u9898 \n     \n         \u8868\u593401 \n         \u8868\u593402 \n     \n     \n         \u5355\u5143\u683c01 \n         \u5355\u5143\u683c02 \n     \n     \n         \u5355\u5143\u683c03 \n         \u5355\u5143\u683c04 \n       \u8fd9\u91cc\u662f\u52a0\u7c97",
+            "title": "\u4e0b\u9762HTML\u8868\u683c"
         },
         {
             "location": "/about/",
