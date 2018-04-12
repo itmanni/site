@@ -1,0 +1,59 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u8fd9\u662f\u65b0\u7684\u5185\u5bb9",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/#_1",
+            "text": "",
+            "title": "\u8fd9\u662f\u65b0\u7684\u5185\u5bb9"
+        },
+        {
+            "location": "/about/",
+            "text": "Dianae abstulerunt usque Antiphataeque conclamat recensent viribus\n\n\nFugam ritu amat voto calidus anseribus iacens\n\n\nLorem markdownum semianimem quod calentes silva, mihi in Ulixes iamque. Diffudit\nporrigit forti super ira coniuge, non sibi ductus obvertit cardine. Fortissime\nibi viris abscidit?\n\n\n\n\nEt haerebat inferias inque summa non virentes\n\n\nMeos excessitque usque in summam adducitque alae\n\n\nDatis de antemnis haud si parte manus\n\n\n\n\nCircen formosae caput quae, iam infectas terga, nec iurgia. Vovistis per tum\nsit, inscius nec velatus tecta tegat suscipiunt.\n\n\nAmo Caune nam ait nec Hecaben Liber\n\n\nRespicio et numquam pugnat. Nec replet pendebant tergore namque. Dum fores\npinguis bobus acutae partes: gratia, harena. Aestu potes, mensura vagantur\nquamquam.\n\n\nHaud tamen percutit? Quam atque caesa, me lenimen urbes crudelesque mira saepe,\nsed illic liquidus \nlitora\n, temptasset aequorque. \nPhoebo luctataque\n inque\nLucina? Nec \nhic duro ora\n pecorum duxit.\n\n\n\n\nProdesse veniebat adspicit\n\n\nNumerusque et hinc pedibus aliquid avarae de\n\n\nEt modo vulneris negata\n\n\nAegro Peloro Ulixes molitur se omnes undas\n\n\nHastam hoc faciem dextram praeceps finis nova\n\n\n\n\nLoco est totumque: virili nec fateor pendebat viae et hoste saetis nescioquam\nquasque. Litusque adimunt corpus unam; terraeque cum ante sint tot! Optime Minos\nsustulit metu aurum est super, gratia primum, passi appellat micant saetiger\ntutior. Ambitione aequoris parentis pugnantemque primum isdem esse inde genitor\npremit discusso excipit: ubique dux dixerat.",
+            "title": "Dianae abstulerunt usque Antiphataeque conclamat recensent viribus"
+        },
+        {
+            "location": "/about/#dianae-abstulerunt-usque-antiphataeque-conclamat-recensent-viribus",
+            "text": "",
+            "title": "Dianae abstulerunt usque Antiphataeque conclamat recensent viribus"
+        },
+        {
+            "location": "/about/#fugam-ritu-amat-voto-calidus-anseribus-iacens",
+            "text": "Lorem markdownum semianimem quod calentes silva, mihi in Ulixes iamque. Diffudit\nporrigit forti super ira coniuge, non sibi ductus obvertit cardine. Fortissime\nibi viris abscidit?   Et haerebat inferias inque summa non virentes  Meos excessitque usque in summam adducitque alae  Datis de antemnis haud si parte manus   Circen formosae caput quae, iam infectas terga, nec iurgia. Vovistis per tum\nsit, inscius nec velatus tecta tegat suscipiunt.",
+            "title": "Fugam ritu amat voto calidus anseribus iacens"
+        },
+        {
+            "location": "/about/#amo-caune-nam-ait-nec-hecaben-liber",
+            "text": "Respicio et numquam pugnat. Nec replet pendebant tergore namque. Dum fores\npinguis bobus acutae partes: gratia, harena. Aestu potes, mensura vagantur\nquamquam.  Haud tamen percutit? Quam atque caesa, me lenimen urbes crudelesque mira saepe,\nsed illic liquidus  litora , temptasset aequorque.  Phoebo luctataque  inque\nLucina? Nec  hic duro ora  pecorum duxit.   Prodesse veniebat adspicit  Numerusque et hinc pedibus aliquid avarae de  Et modo vulneris negata  Aegro Peloro Ulixes molitur se omnes undas  Hastam hoc faciem dextram praeceps finis nova   Loco est totumque: virili nec fateor pendebat viae et hoste saetis nescioquam\nquasque. Litusque adimunt corpus unam; terraeque cum ante sint tot! Optime Minos\nsustulit metu aurum est super, gratia primum, passi appellat micant saetiger\ntutior. Ambitione aequoris parentis pugnantemque primum isdem esse inde genitor\npremit discusso excipit: ubique dux dixerat.",
+            "title": "Amo Caune nam ait nec Hecaben Liber"
+        },
+        {
+            "location": "/about/license/",
+            "text": "",
+            "title": "License"
+        },
+        {
+            "location": "/about/relesenote/",
+            "text": "",
+            "title": "Relesenote"
+        }
+    ]
+}
